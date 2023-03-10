@@ -12,5 +12,7 @@ int _sqrt_helper(int n, int i);
 int is_prime_number(int n);
 int max_divisor(int n, int i);
 int is_palindrome(char *s);
+int find_strlen(char *s);
+int check_palindrome(char *s, int len, int i);
 
 #endif
